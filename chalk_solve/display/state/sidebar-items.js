@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DefIdAliases",""],["InvertedBoundVar","Like a BoundVar, but with the debrujin index inverted so as to create a canonical name we can use anywhere for each bound variable."],["WriterState",""]],"type":[["IndexWithinBinding",""]]});
